@@ -1,0 +1,34 @@
+{
+  "title": "Outcomes",
+  "subTitle": "What Outcomes Our Clients Achieved",
+  "outcomeList": [
+    {
+      "OutImage": "/assets/images/out1.png",
+      "location": "QLD",
+      "type": "Knockdown Rebuild",
+      "boughtAt": "$1,170,000",
+      "nowAt": "$2,950,000"
+    },
+    {
+      "OutImage": "/assets/images/out2.png",
+      "location": "VIC",
+      "type": "Subdivided Duplex",
+      "boughtAt": "$730,000",
+      "nowAt": "$2,360,000"
+    },
+    {
+      "OutImage": "/assets/images/out3.png",
+      "location": "NSW",
+      "type": "Storey Addition",
+      "boughtAt": "$1,580,000",
+      "nowAt": "$2,810,000"
+    },
+    {
+      "OutImage": "/assets/images/out4.png",
+      "location": "NSW",
+      "type": "Renovation",
+      "boughtAt": "$1,920,000",
+      "nowAt": "$3,730,000"
+    }
+  ]
+}

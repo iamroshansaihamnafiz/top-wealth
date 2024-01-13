@@ -1,0 +1,34 @@
+{
+  "title": "What Our",
+  "colorTitle": "Clients",
+  "testimonials": [
+    {
+      "tImage": "/assets/images/t1.png",
+      "tSVG": "/assets/images/tsvg.svg",
+      "name": "Michael Thompson",
+      "location": "Sydney, NSW",
+      "description": "TopWealth streamlined the entire process for my property investment, saving me countless hours. Their efficient approach allowed me to balance my busy work schedule without missing any opportunities."
+    },
+    {
+      "tImage": "/assets/images/t2.png",
+      "tSVG": "/assets/images/tsvg.svg",
+      "name": "Priya Singh",
+      "location": "Newcastle, NSW",
+      "description": "With TopWealth's guidance, I was able to secure a property well below market value. Their negotiation skills and industry insights were invaluable in saving me a significant amount of money."
+    },
+    {
+      "tImage": "/assets/images/t3.png",
+      "tSVG": "/assets/images/tsvg.svg",
+      "name": "David Nguyen",
+      "location": "Brisbane, QLD",
+      "description": "TopWealth took the stress out of property investment. They handled all the complexities, allowing me to enjoy a seamless and worry-free experience."
+    },
+    {
+      "tImage": "/assets/images/t2.png",
+      "tSVG": "/assets/images/tsvg.svg",
+      "name": "Sarah Brown",
+      "location": "Melbourne, VIC",
+      "description": "TopWealth's expertise in the local market helped me buy the right property. Their data-driven approach ensured I made an informed decision that paid off significantly."
+    }
+  ]
+}

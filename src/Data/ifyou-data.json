@@ -1,0 +1,39 @@
+{
+  "heading": "If this is you",
+  "typewriterEffects": [
+    "Difficulty in Sourcing Properties",
+    "Complex Development Processes",
+    "Market Analysis Overload",
+    "Budget and Time Overruns",
+    "Council Compliance Issues"
+  ],
+  "relaxMessage": "Relax,",
+  "features": [
+    "Expert Property Sourcing",
+    "Streamlined Development Guidance",
+    "Data-Driven Market Insights",
+    "Budget and Time Management",
+    "Legal and Compliance Assistance"
+  ],
+  "featuresImage": [
+    "/assets/images/if1.png",
+    "/assets/images/if2.png",
+    "/assets/images/if3.png",
+    "/assets/images/if4.png"
+  ],
+  "figures": [
+    {
+      "figureNumber": "17+",
+      "figureDes": "Years Experience"
+    },
+    {
+      "figureNumber": "38+",
+      "figureDes": "Project Completed"
+    },
+    {
+      "figureNumber": "42M+",
+      "figureDes": "Deal Size"
+    }
+  ],
+  "button": "Book Free Consultation"
+}

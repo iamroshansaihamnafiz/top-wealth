@@ -1,0 +1,92 @@
+{
+  "title": "Frequently",
+  "colorTitle": "Asked Questions",
+  "categories": {
+    "Engagement": [
+      {
+        "question": "What services does TopWealth offer?",
+        "answer": "TopWealth specializes in property portfolio strategy advisory, buyers agent services, property development, block subdivision, property management, capital lending, and facilitating joint ventures."
+      },
+      {
+        "question": "How does TopWealth help in saving time in property investment?",
+        "answer": "We streamline your investment process by handling all aspects of property sourcing, development, and management, utilizing our expertise and network to make the process more efficient."
+      },
+      {
+        "question": "Can TopWealth assist with finding off-market properties?",
+        "answer": "Absolutely, our network and industry connections give us access to a range of off-market opportunities, providing you with exclusive property options."
+      },
+      {
+        "question": "What kind of properties do you specialize in?",
+        "answer": "We deal with a wide range of properties including residential homes, commercial properties, development sites, and special projects like student accommodations and holiday homes."
+      },
+      {
+        "question": "How does TopWealth ensure I'm making a wise investment?",
+        "answer": "We conduct thorough market analysis, utilize AI and suburb analysis tools, and apply our extensive local knowledge to ensure your investment is sound and aligns with your goals."
+      },
+      {
+        "question": "What makes TopWealth different from other property advisory services?",
+        "answer": "Our personalized approach, combined with our comprehensive service offerings from property sourcing to management, sets us apart. We focus on creating tailored investment strategies that align with your specific needs."
+      },
+      {
+        "question": "Can TopWealth assist with property development and subdivision?",
+        "answer": "Yes, we offer complete services in property development and subdivision, including feasibility assessments, development application processes, and connecting landowners with developers."
+      },
+      {
+        "question": "How does TopWealth handle property management?",
+        "answer": "Our property management services cover everything from tenant screening and leasing to maintenance and rent collection, ensuring your investment is well-maintained and profitable."
+      },
+      {
+        "question": "What areas do you operate in?",
+        "answer": "We operate in various high-return locations across Australia, including Sydney, Melbourne, Brisbane, Gold Coast, Sunshine Coast, Newcastle, and Central Coast."
+      },
+      {
+        "question": "How can I start working with TopWealth?",
+        "answer": "Getting started is easy – just contact us to schedule a free 30-minute consultation where we can discuss your property development strategy and how we can assist you."
+      }
+    ],
+    "PropertyAcquisition": [
+      {
+        "question": "How does TopWealth assist with property acquisition?",
+        "answer": "We provide comprehensive support, from identifying potential properties, including off-market and under-market value deals, to handling negotiations and finalizing the purchase. Our expertise ensures you acquire properties that align with your investment goals."
+      },
+      {
+        "question": "Can TopWealth help me buy property in areas unfamiliar to me?",
+        "answer": "Yes, our team has extensive knowledge of various property markets across Australia. We provide you with detailed insights into different locations, helping you make informed decisions even in unfamiliar areas."
+      },
+      {
+        "question": "What kind of due diligence does TopWealth perform on properties?",
+        "answer": "We conduct thorough due diligence, including property valuation, legal checks, market analysis, and feasibility studies, to ensure the property meets your investment criteria and carries minimal risk."
+      },
+      {
+        "question": "How does TopWealth identify off-market properties?",
+        "answer": "Our network of contacts and industry relationships allow us access to off-market properties, which we then evaluate for investment potential before presenting them to you."
+      },
+      {
+        "question": "Can TopWealth assist with acquiring properties for redevelopment?",
+        "answer": "Absolutely, we specialize in identifying properties with high redevelopment potential, including those suitable for subdivision, renovation, or complete redevelopment."
+      }
+    ],
+    "PropertyDevelopment": [
+      {
+        "question": "What range of property development services does TopWealth offer?",
+        "answer": "We offer a full spectrum of development services, from site acquisition, design and planning, navigating council approvals, to construction management and project completion."
+      },
+      {
+        "question": "How does TopWealth manage risk during the development process?",
+        "answer": "We mitigate risk through meticulous planning, regular project monitoring, and by staying informed of market and regulatory changes. We also ensure all necessary insurances and compliance measures are in place."
+      },
+      {
+        "question": "Can TopWealth handle large-scale development projects?",
+        "answer": "Yes, our team has the expertise and experience to manage large-scale developments, including residential complexes, commercial properties, and mixed-use developments."
+      },
+      {
+        "question": "How involved can I be in the development process?",
+        "answer": "Your level of involvement is up to you. We can manage the entire process independently or work collaboratively with you at every stage, keeping you informed and involved in key decisions."
+      },
+      {
+        "question": "What happens if there are delays or issues during development?",
+        "answer": "In case of delays or issues, we proactively communicate with you and take immediate action to resolve the situation. Our focus is always on minimizing impact and keeping the project on track."
+      }
+    ]
+  }
+}

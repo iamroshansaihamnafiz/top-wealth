@@ -1,0 +1,20 @@
+{
+  "services": [
+    {
+      "serviceTitle": "Strategy Advisory",
+      "serviceImage": "/assets/images/all-1.png"
+    },
+    {
+      "serviceTitle": "Capital Lending",
+      "serviceImage": "/assets/images/all-2.png"
+    },
+    {
+      "serviceTitle": "Project Management",
+      "serviceImage": "/assets/images/all-3.png"
+    }
+  ],
+  "allInOnePackage": "All-In-One Package:",
+  "allInOneTitle": "Your Unfair",
+  "allInOnecolorTitle": "Property Advantage",
+  "description": "We have an all-in-one package service that equips you with an unmatched edge in the property market, turning every investment into an opportunity for extraordinary success."
+}

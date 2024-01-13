@@ -1,0 +1,11 @@
+{
+  "logo": "/assets/images/logo.png",
+  "menu": [
+    "Home",
+    "About",
+    "Services",
+    "Projects",
+    "Contact"
+  ],
+  "button": "Free Consultation"
+}

@@ -1,0 +1,85 @@
+{
+  "locations": [
+    {
+      "loc": "Sydney"
+    },
+    {
+      "loc": "Melbourne"
+    },
+    {
+      "loc": "Brisbane"
+    },
+    {
+      "loc": "Gold Coast"
+    },
+    {
+      "loc": "Sunshine Coast"
+    },
+    {
+      "loc": "Newcastle"
+    },
+    {
+      "loc": "Central Coast"
+    }
+  ],
+  "title": "Shaping Visions into",
+  "colorTitle": "Valuable Assets",
+  "opportunities": [
+    {
+      "title": "Opportunities",
+      "subTitle": "What Deals We Advice Our Client to Look For"
+    }
+  ],
+  "opportunityList": [
+    {
+      "lImage": "/assets/images/f1.png",
+      "lTitle": "Off-Market Gems"
+    },
+    {
+      "lImage": "/assets/images/f2.png",
+      "lTitle": "Under Market Value Deals"
+    },
+    {
+      "lImage": "/assets/images/f3.png",
+      "lTitle": "Re-Zone Potential Properties"
+    },
+    {
+      "lImage": "/assets/images/f4.png",
+      "lTitle": "Distressed Properties"
+    },
+    {
+      "lImage": "/assets/images/f5.png",
+      "lTitle": "High-Potential Locations"
+    }
+  ],
+  "outcomes": {
+    "title": "Outcomes",
+    "subTitle": "What Outcomes Our Clients Achieved",
+    "list": [
+      {
+        "location": "QLD",
+        "type": "Knockdown Rebuild",
+        "boughtAt": "$1,170,000",
+        "nowAt": "$2,950,000"
+      },
+      {
+        "location": "VIC",
+        "type": "Subdivided Duplex",
+        "boughtAt": "$730,000",
+        "nowAt": "$2,360,000"
+      },
+      {
+        "location": "NSW",
+        "type": "Storey Addition",
+        "boughtAt": "$1,580,000",
+        "nowAt": "$2,810,000"
+      },
+      {
+        "location": "NSW",
+        "type": "Renovation",
+        "boughtAt": "$1,920,000",
+        "nowAt": "$3,730,000"
+      }
+    ]
+  }
+}

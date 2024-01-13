@@ -1,0 +1,26 @@
+{
+  "title": "Why Choose",
+  "colorTitle": "TopWealth?",
+  "benefits": [
+    {
+      "benefitImage": "/assets/images/save-time.svg",
+      "title": "Save Time",
+      "description": "We handle the complexities from sourcing to development, saving you valuable time and accelerating your investment goals."
+    },
+    {
+      "benefitImage": "/assets/images/save-money.svg",
+      "title": "Save Money",
+      "description": "We cover you with off-market deals and powerful negotiation that ensure you get the best value for your money."
+    },
+    {
+      "benefitImage": "/assets/images/save-stress.svg",
+      "title": "Save Stress",
+      "description": "Our comprehensive service package is designed to take the stress out of property transactions, from handling legalities to managing development intricacies."
+    },
+    {
+      "benefitImage": "/assets/images/right-buy.svg",
+      "title": "Buy Right",
+      "description": "We employ data-driven analysis, local market expertise, and a deep understanding of future trends to help you buy right."
+    }
+  ]
+}
