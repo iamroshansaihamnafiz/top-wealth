@@ -14,7 +14,6 @@ function IfYou(props) {
         heading,
         relaxMessage,
         features,
-        featuresImage,
         figures,
         button
     } = ifYouData;
@@ -45,7 +44,7 @@ function IfYou(props) {
                                 {relaxMessage}
                             </h1>
                             <h1 className="text-3xl lg:text-4xl font-semibold">
-                                We're <span className="text-primary">here to you...</span>
+                                We are <span className="text-primary">here to you...</span>
                             </h1>
 
                             <div className="mt-6 space-y-2">
