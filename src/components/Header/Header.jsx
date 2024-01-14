@@ -46,7 +46,7 @@ function Header(props) {
         <>
             {/* Header Section */}
             <section id="header-section" className="relative">
-                <header className={`lg:flex py-6 lg:py-4 bg-black mt-0 md:mt-[80px] lg:mt-0 lg:bg-transparent w-full fixed lg:relative z-50 ${isHeaderVisible ? 'hidden' : ''}`}>
+                <header className={`lg:flex py-6 lg:py-4 mt-0 md:mt-[80px] lg:mt-0 lg:bg-transparent w-full fixed lg:relative z-50 ${isHeaderVisible ? '' : 'bg-black'}`}>
                     <div className="container flex items-center justify-between">
                         <div className="logo">
                             <Link href='/'>
