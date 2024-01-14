@@ -1,8 +1,6 @@
 import React from 'react';
 import OutcomeData from '../../Data/outcome-data.json';
 import {IoLocationOutline} from "react-icons/io5";
-import OutImage1 from '../../../public/assets/images/out1.jpg';
-import Image from "next/image";
 
 function Outcome(props) {
     const {
@@ -19,14 +17,19 @@ function Outcome(props) {
                         <h4 className="text-md text-[#151723] text-opacity-80 mt-2 font-normal">{subTitle}</h4>
                     </div>
 
-                    <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-2 lg:grid-cols-4 mt-8 overflow-hidden">
+                    <div className="grid grid-cols-2 sm:grid-cols-2 md:grid-cols-2 lg:grid-cols-4 mt-8 overflow-hidden">
                         {outcomeList.map((item, index) => (
                             <div key={index}
-                                 className="col relative hover:scale-105 transition duration-500 cursor-pointer">
-                                <Image src={item.OutImage} width={360} height={400} alt="OutImage1"
-                                       className="w-full h-full object-cover"/>
-                                <div className="absolute inset-0 bg-black opacity-30"></div>
-
+                                 className="col image-box relative hover:scale-105 transition duration-500 cursor-pointer object-cover"
+                                 style={{
+                                     backgroundImage: `linear-gradient(0deg, rgb(0 0 0 / 30%), rgb(5 5 5 / 30%)), url(${item.OutImage})`,
+                                     backgroundSize: 'cover',
+                                     backgroundPosition: 'center',
+                                     backgroundRepeat: 'no-repeat',
+                                     width: '100%',
+                                     height: '400px',
+                                 }}
+                            >
                                 <div className="content absolute left-5 bottom-5 text-white">
                                     <div className="flex items-center gap-1">
                                         <IoLocationOutline/>

@@ -15,7 +15,7 @@ function WhyChoose(props) {
                         {title} <span className="text-primary">{colorTitle}</span>
                     </h1>
 
-                    <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4 mt-14">
+                    <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-2 lg:grid-cols-4 gap-4 mt-14">
                         {benefits.map((benefit, index) => (
                             <div key={index} className="group col relative cursor-pointer border border-gray-300 rounded-xl py-6 px-4">
                                 <Image src={benefit.benefitImage} width={60} height={100} alt="benefitImage"/>

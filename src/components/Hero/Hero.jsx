@@ -9,10 +9,10 @@ function Hero(props) {
                 backgroundImage: `linear-gradient(0deg, rgb(45 44 45 / 33%), rgb(15 15 15 / 30%)),url(${heroImage})`,
                 backgroundSize: 'cover',
                 backgroundPosition: 'center',
-                height: '100vh',
+                height: '110vh',
             }}>
                 <div className="container pt-20">
-                    <div className="text-center mt-20">
+                    <div className="text-center mt-[8rem]">
                         <h1 className="text-3xl sm:text-4xl md:text-[5rem] text-white font-semibold">
                             {title}
                         </h1>
