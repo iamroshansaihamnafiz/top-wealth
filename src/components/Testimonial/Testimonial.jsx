@@ -19,7 +19,7 @@ function Testimonial(props) {
     return (
         <>
             <section id="testimonial-section">
-                <div className="full mt-20 py-14 bg-gray-100">
+                <div className="full mt-20 py-28 bg-gray-100">
                     <div className="container">
                         <div className="head flex items-center justify-between">
                             <h1 className="text-3xl md:text-4xl font-semibold">

@@ -14,7 +14,7 @@ function Outcome(props) {
                 <div className="full pt-10">
                     <div className="text-center">
                         <h4 className="text-2xl font-semibold">{title}</h4>
-                        <h4 className="text-[14px] mt-2 font-normal">{subTitle}</h4>
+                        <h4 className="text-md text-[#151723] text-opacity-80 mt-2 font-normal">{subTitle}</h4>
                     </div>
 
                     <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 mt-8 overflow-hidden">
@@ -27,7 +27,7 @@ function Outcome(props) {
                                      backgroundPosition: 'center',
                                      backgroundRepeat: 'no-repeat',
                                      width: '100%',
-                                     height: '350px'
+                                     height: '300px'
                                  }}
                             >
                                 <div className="content absolute left-5 bottom-5 text-white">

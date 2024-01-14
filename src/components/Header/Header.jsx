@@ -31,7 +31,7 @@ function Header(props) {
                     <div className="container flex items-center justify-between">
                         <div className="logo">
                             <Link href='/'>
-                                <Image className="h-[38px]" width={100} height={100} src={logo} alt="Logo"/>
+                                <Image className="h-[35px] w-full" width={100} height={100} src={logo} alt="Logo"/>
                             </Link>
                         </div>
 

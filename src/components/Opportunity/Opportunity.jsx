@@ -2,7 +2,7 @@ import React from 'react';
 import OpprData from '../../Data/opprtunity-data.json';
 import Link from "next/link";
 import Image from "next/image";
-import goBottomImage from '../../../public/assets/images/go-bottom.png';
+import goBottomImage from '../../../public/assets/images/go-bottom.svg';
 
 function Opportunity(props) {
     const {
@@ -15,7 +15,7 @@ function Opportunity(props) {
     return (
         <>
             <section id="opportunity-section">
-                <div className="container pt-16">
+                <div className="container pt-[10rem]">
                     <div className="location-list flex items-center justify-center">
                         <ul>
                             {locations.map((location, index) => (
@@ -31,11 +31,11 @@ function Opportunity(props) {
                         {title} <span className="text-primary">{colorTitle}</span>
                     </h1>
 
-                    <div className="opportunities mt-14 text-center">
+                    <div className="opportunities mt-16 text-center">
                         {opportunities.map((opportunity, index) => (
                             <div key={index}>
                                 <h4 className="text-2xl font-semibold">{opportunity.title}</h4>
-                                <h4 className="text-[14px] mt-2 font-normal">{opportunity.subTitle}</h4>
+                                <h4 className="text-md mt-2 font-normal text-[#151723] text-opacity-80">{opportunity.subTitle}</h4>
                             </div>
                         ))}
 

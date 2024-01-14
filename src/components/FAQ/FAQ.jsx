@@ -24,7 +24,7 @@ function Faq(props) {
     return (
         <>
             <section id="faq-section">
-                <div className="container pt-16">
+                <div className="container pt-[8.5rem]">
                     <h1 className="text-3xl md:text-4xl text-center font-semibold">
                         {title} <span className="text-primary">{colorTitle}</span>
                     </h1>

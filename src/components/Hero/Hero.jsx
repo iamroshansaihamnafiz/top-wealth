@@ -1,6 +1,5 @@
 "use client"
 import heroData from '../../Data/hero-data.json';
-import Link from "next/link";
 
 function Hero(props) {
     const {heroImage, title, titleTwo, subTitle, button} = heroData;
@@ -10,18 +9,20 @@ function Hero(props) {
                 backgroundImage: `linear-gradient(0deg, rgb(45 44 45 / 33%), rgb(15 15 15 / 30%)),url(${heroImage})`,
                 backgroundSize: 'cover',
                 backgroundPosition: 'center',
-                height: '90vh',
+                height: '100vh',
             }}>
                 <div className="container pt-20">
                     <div className="text-center mt-20">
-                        <h1 className="text-3xl sm:text-4xl md:text-5xl text-white font-semibold">{title}</h1>
-                        <h1 className="text-3xl sm:text-4xl md:text-5xl text-white font-semibold">
+                        <h1 className="text-3xl sm:text-4xl md:text-[5rem] text-white font-semibold">
+                            {title}
+                        </h1>
+                        <h1 className="mt-2 md:mt-12 text-3xl sm:text-4xl md:text-[5rem] text-white font-semibold">
                             <span className="text-primary">Property </span>
                             {titleTwo}
                         </h1>
-                        <h4 className="text-sm text-white mt-4">{subTitle}</h4>
+                        <h4 className="text-md text-white mt-8 md:mt-14">{subTitle}</h4>
                         <button
-                            className="mt-4 button bg-primary text-md rounded-full text-black hover:text-white transition font-semibold py-3 px-6">
+                            className="mt-8 button bg-primary text-md rounded-full text-black hover:text-white transition font-semibold py-3 px-6">
                             {button}
                         </button>
                     </div>
