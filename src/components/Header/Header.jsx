@@ -46,11 +46,13 @@ function Header(props) {
         <>
             {/* Header Section */}
             <section id="header-section" className="relative">
-                <header className={`lg:flex py-6 lg:py-4 mt-0 md:mt-[80px] lg:mt-0 lg:bg-transparent w-full fixed lg:relative z-50 ${isHeaderVisible ? '' : 'bg-black'}`}>
+                <header
+                    className={`lg:flex py-6 lg:py-4 mt-0 md:mt-[80px] lg:mt-0 lg:bg-transparent w-full fixed lg:relative z-50 ${isHeaderVisible ? '' : 'bg-black'}`}>
                     <div className="container flex items-center justify-between">
                         <div className="logo">
                             <Link href='/'>
-                                <Image className="h-[35px] w-full" width={100} height={100} src={logo} alt="Logo"/>
+                                <Image className="h-full sm:h-[35px] w-[100] sm:w-full" width={100} height={100}
+                                       src={logo} alt="Logo"/>
                             </Link>
                         </div>
 
